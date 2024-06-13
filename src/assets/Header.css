@@ -1,0 +1,22 @@
+.header .top-bar {
+    background-color: #f82222;
+    /* Red background color */
+}
+
+.header .promo span {
+    margin: 0 5px;
+    font-weight: bold;
+}
+
+.header .search-bar {
+    max-width: 400px;
+}
+
+.header .icons .anticon {
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.header .bottom-bar {
+    background-color: #f8f6f6;
+}
